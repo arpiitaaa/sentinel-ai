@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel-AI: Market Intelligence & Quant Agent",
+  "description": "An AI-powered quantitative analysis tool that automates market research, sentiment analysis, and technical indicator modeling using Gemini API.",
+  "requestFramePermissions": []
+}
